@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping list</string>
+    <string name="producto_form_ejemplo">Products</string>
+    <string name="producto_fotm_agregar">Add product</string>
+    <string name="logo">Logo</string>
+    <string name="producto_form_eliminar">Delete product</string>
+    <string name="pag_configuracion">Setting</string>
+</resources>
+
+
+

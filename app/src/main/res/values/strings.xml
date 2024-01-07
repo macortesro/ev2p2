@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lista de Compras</string>
+    <string name="producto_form_ejemplo">Productos</string>
+    <string name="producto_fotm_agregar">Agregar producto</string>
+    <string name="logo">Logo</string>
+    <string name="producto_form_eliminar">Eliminar producto</string>
+    <string name="pag_configuracion">Configuracion</string>
+</resources>
